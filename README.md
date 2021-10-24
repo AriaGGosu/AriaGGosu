@@ -10,7 +10,7 @@
 - :speech_balloon: How to reach me **hector.vicencio.reyes@gmail.com**
 - :link: Connect with me: <a href="https://www.linkedin.com/in/hector-vicencio-reyes-frontend-dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="95"></a>
 - I’m currently working on:
-    - 💻 FrontEnd Nuclear Engineer architect God Dev in CheckLaboral. <a href="https://www.checklaboral.cl" target="_blank"><img align="center" src="https://checklaboral.cl/wp-content/uploads/2021/04/logo.png" height="30" width="70"></a> 
+    - 💻 FrontEnd Nuclear Engineer architect God Dev in M-Risk. <a href="https://www.m-risk.com/" target="_blank"><img align="center" src="https://www.m-risk.com/hs-fs/hubfs/img/logo-m-risk.png?width=1500&name=logo-m-risk.png" height="30" width="70"></a> 
 
 
 
